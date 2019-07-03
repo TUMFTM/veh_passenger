@@ -7,13 +7,16 @@ This software component covers the trajectory tracking, state estimation and veh
 ![Control Architecture](control_architecture.png)
 
 A video of the performance at the Berlin track can be found [here](https://www.youtube.com/watch?v=7NGEM5jcXV4). More information and current updates on the project status are available [here](https://www.ftm.mw.tum.de/en/main-research/vehicle-dynamics-and-control-systems/roborace-autonomous-motorsport/). A list of publications already available to the research community can be found here:
+* **[A Software Architecture for an Autonomous Racecar](https://ieeexplore.ieee.org/document/8746367)** by *Betz, J.; Wischnewski, A.; Heilmeier, A.; Nobis, F.; Stahl, T.; Hermansdorfer, L.; Lienkamp, M.;*
 * **[What can we learn from autonomous level 5 motorsport?](https://doi.org/10.1007/978-3-658-22050-1_12)** by *Betz, J.; Wischnewski, A.; Heilmeier, A.; Nobis, F.; Stahl, T.; Hermansdorfer, L.; Lohmann, B.; Lienkamp, M.*
 * **[A Race Simulation for Strategy Decisions in Circuit Motorsports](https://doi.org/10.1109/ITSC.2018.8570012)** by *Heilmeier, A.; Graf, M.; Lienkamp, M.*
+* **[Minimum curvature trajectory planning and control for an autonomous race car](https://www.tandfonline.com/eprint/eU49ARBdZkvqAPQguqGb/full?target=10.1080/00423114.2019.1631455)** by *Heilmeier, A.; Wischnewski, A.; Hermansdorfer, L.; Betz, J.; Lienkamp, M.*
+* **[ROS-based localization of a race vehicle at high-speed using LIDAR](https://www.e3s-conferences.org/articles/e3sconf/abs/2019/21/e3sconf_icpeme2018_04002/e3sconf_icpeme2018_04002.html)** by *Stahl, T.; Wischnewski, A.; Betz, J.; Lienkamp, M.*
 
 Already submitted and accepted, but not published yet are:
-* **ROS-based localization of a race vehicle at high-speed using LIDAR** by *Stahl, T.; Wischnewski, A.; Betz, J.; Lienkamp, M*
+
 * **Autonomous Racing: A Comparison of SLAM Algorithms for Large Scale Outdoor Environments** by *Nobis, F.; Betz, J. ; Hermansdorfer, L.; Lienkamp, M.*
-* **A Software Architecture for an Autonomous Racecar** by *Betz, J.; Wischnewski, A.; Heilmeier, A.; Nobis, F.; Stahl, T.; Hermansdorfer, L.; Lienkamp, M.*
+
 
 ### People Involved
 ##### Core Developers
