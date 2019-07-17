@@ -1,4 +1,6 @@
-# Autonomous Driving Control Software of TUM Roborace Team
+# Autonomous Driving Control Software of TUM Roborace Team### This repository is deprecated!
+Due to code refactoring, this repository is no longer required. The current version of the software and all required instructions can be found [here](https://github.com/TUMFTM/mod_vehicle_dynamics_control).
+
 ### Overview
 This software stack has been developed and used for the Roborace Event at the Berlin Formula-E Track 2018. It achieved approximately 150kph and 80% of the combined lateral and longitudinal acceleration potential of the DevBot. The overall research project is a joint effort of the Chair of Automotive Technology and the Chair of Automatic Control.
 
